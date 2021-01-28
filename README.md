@@ -1,0 +1,2 @@
+# qubchallenge
+Small puzzle
